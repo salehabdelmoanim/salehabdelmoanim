@@ -45,7 +45,7 @@ I'm a passionate front-end developer dedicated to crafting exceptional user expe
 ## 📫 Get in Touch
 
 - 🏠 Cairo, Egypt
-- 📧 Email: [salehbusiness1992@gmial.com](mailto:salehbusiness1992@gmial.com)
+- 📧 Email: [salehbusiness1992@gmail.com](mailto:salehbusiness1992@gmail.com)
 - 🔗 LinkedIn https://www.linkedin.com/in/saleh-abd-elmoneam/
 - 📱 Mobile: +20 111 546 7278
 
